@@ -1,105 +1,105 @@
-.theme-plugin-light-mode {
-  --theme-page: #edf4f5;
-  --theme-page-text: #3b4559;
-  --theme-page-text-light: #9ea7bc;
-  --theme-page-instructions-text: #3b4559;
+.theme-plugin-CYJ-Theme {
+  --theme-page: #F7C626;
+  --theme-page-text: #000000;
+  --theme-page-text-light: #110B06;
+  --theme-page-instructions-text: #000000;
   --theme-page-instructions-background: rgba(200,200,200,0.4);
-  --theme-modal: #ffffff;
+  --theme-modal: #fff;
 
   --theme-intro-gradient-1: rgba(255,255,255,0);
   --theme-intro-gradient-2: rgba(255,255,255,0.95);
 
-  --theme-header-text: #2b3748;
+  --theme-header-text: #000000;
   --theme-caption-text: #000;
-  --theme-caption-read: #8795a1;
+  --theme-caption-read: #462a16;
   --theme-announcements-gradient-1: rgba(255,255,255,0);
   --theme-announcements-gradient-2: rgba(255,255,255,0.95);
 
-  --theme-line-separator: #dae1e7;
-  --theme-wallet-overview-border: #dae1e7;
+  --theme-line-separator: #1B1813;
+  --theme-wallet-overview-border: #714315;
 
-  --theme-table-row-hover: #f8f9fd;
-  --theme-transaction-sent: #fef4f5;
-  --theme-transaction-sent-arrow: #e51317;
-  --theme-transaction-received: #e3fcec;
-  --theme-transaction-received-arrow: #2db761;
-  --theme-send-circle-second-signature: #6c5494;
-  --theme-send-circle-second-signature-text: #3b2d54;
-  --theme-send-circle-register-delegate: #d24562;
-  --theme-send-circle-register-delegate-text: #ffffff;
-  --theme-send-circle-vote: #e393a6;
-  --theme-send-circle-vote-text: #954458;
-  --theme-transaction-detail-gradient1: #46466b;
-  --theme-transaction-detail-gradient2: #343a53;
-  --theme-transaction-detail-arrow: #4d536c;
+  --theme-table-row-hover: #714315;
+  --theme-transaction-sent: #000000;
+  --theme-transaction-sent-arrow: #CB1F19;
+  --theme-transaction-received: #000000;
+  --theme-transaction-received-arrow: #F9C725;
+  --theme-send-circle-second-signature: ##000000;
+  --theme-send-circle-second-signature-text: ##F9C725;
+  --theme-send-circle-register-delegate: #000000;
+  --theme-send-circle-register-delegate-text: #F9C725;
+  --theme-send-circle-vote: #F9C725;
+  --theme-send-circle-vote-text: #000000;
+  --theme-transaction-detail-gradient1: #402208;
+  --theme-transaction-detail-gradient2: #1B1813;
+  --theme-transaction-detail-arrow: #f2f7f2;
 
-  --theme-wallet-new-selected: #282a2b;
-  --theme-wallet-new-unselected: #9ea7bc;
+  --theme-wallet-new-selected: #402208;
+  --theme-wallet-new-unselected: #CB1F19;
   --theme-wallet-sign-verify-message-text: #c5cfde;
   --theme-wallet-grid-shadow: 0 5px 30px rgba(124,138,192,0.22);
 
-  --theme-feature: white;
-  --theme-feature-item-text: #c0cddf;
-  --theme-feature-item-hover: #fef4f5;
-  --theme-feature-item-alternative: #f0f2f9;
-  --theme-feature-item-alternative-text: #8b9bab;
-  --theme-feature-item-hover-text: #e6b1b5;
-  --theme-feature-item-selected: #fef4f5;
-  --theme-feature-item-selected-text: #ce6970;
-  --theme-feature-item-indicator: #f03643;
+  --theme-feature: #B48D25;
+  --theme-feature-item-text: #110B06;
+  --theme-feature-item-hover: #1B1813;
+  --theme-feature-item-alternative: #714315;
+  --theme-feature-item-alternative-text: #2E2E2D;
+  --theme-feature-item-hover-text: #1B1813;
+  --theme-feature-item-selected: #232020;
+  --theme-feature-item-selected-text: #F9C725;
+  --theme-feature-item-indicator: #714315;
 
-  --theme-secondary-feature: #f7f9fb;
+  --theme-secondary-feature: #F9C725;
 
-  --theme-button-special-choice: #e78068;
+  --theme-button-special-choice: #462a16;
 
-  --theme-heading-background: #343956;
-  --theme-heading-text: #c0cddf;
+  --theme-heading-background: #F9C725;
+  --theme-heading-text: #F9C725;
 
-  --theme-chart-background: #f8fafc;
-  --theme-chart-price: #3b4559;
+  --theme-chart-background: #1B1813;
+  --theme-chart-price: #F9C725;
 
-  --theme-button: #e0f0fd;
-  --theme-button-active: #c5dbed;
-  --theme-button-text: #037cff;
+  --theme-button: #000000;
+  --theme-button-active: #462a16;
+  --theme-button-text: #F9C725;
   --theme-button-light: #f1f5f8;
-  --theme-button-light-text: #8795a1;
-  --theme-button-inner-box: #c6dcee;
-  --theme-action-button: #eff0f6;
-  --theme-action-button-text: #8d93ad;
-  --theme-action-button-text-hover: #789fba;
-  --theme-option-button: #3d456d;
+  --theme-button-light-text: #F9C725;
+  --theme-button-inner-box: #000000;
+  --theme-action-button: #2E2E2D;
+  --theme-action-button-text: #F9C725;
+  --theme-action-button-text-hover: #000000;
+  --theme-option-button: #CB1F19;
   --theme-option-button-hover: #cc5e60;
-  --theme-option-button-text: #8894cf;
+  --theme-option-button-text: #402208;
   --theme-switch-button: #e0f0fd;
-  --theme-option-heading-button: #3d456d;
-  --theme-option-heading-button-hover: #cc5e60;
-  --theme-option-heading-button-text: #8894cf;
-  --theme-input-toggle-choice: #f1f5f8;
+  --theme-option-heading-button: #B48D25;
+  --theme-option-heading-button-hover: #CB1F19;
+  --theme-option-heading-button-text: #000000;
+  --theme-input-toggle-choice: #714315;
   --theme-input-toggle-choice-text: #606f7b;
   --theme-input-field-border: #b9c2d7;
   --theme-modal-footer-button: #e7d28e;
   --theme-modal-footer-button-text: #b3a36f;
 
   --theme-explanation-background: #e2edf8;
-  --theme-explanation-text: #7f95ab;
+  --theme-explanation-text: #ffffff;
 
   --theme-settings: white;
   --theme-settings-hover: #f0f1f8;
   --theme-settings-sub: #2d3747; /* NOTE: not used on light theme */
   --theme-settings-button: #2d3747; /* NOTE: not used on light theme */
   --theme-settings-heading: #2d3747;
-  --theme-settings-border: #f1f2f8;
-  --theme-settings-text: #8a91b8;
+  --theme-settings-border: #cc1f1a;
+  --theme-settings-text: #F9C725;
   --theme-settings-text-hover: #8a91b8;
   --theme-settings-switch: #f1f4f7;
   --theme-settings-control-title: #2d3747;
 
-  --theme-voting-banner-background: #e2edf8;
+  --theme-voting-banner-background: #714315;
   --theme-voting-banner-text: #7f95ab;
   --theme-voting-banner-button: #cfddec;
-  --theme-voting-banner-button-hover: #b1c9e2;
-  --theme-voting-banner-button-text: #90a9c6;
-  --theme-voting-banner-button-text-hover: #6785a9;
+  --theme-voting-banner-button-hover: #CB1F19;
+  --theme-voting-banner-button-text: #714315;
+  --theme-voting-banner-button-text-hover: #adc4e0;
 
   --theme-fee-gradient-start: var(--theme-modal);
   --theme-fee-gradient-end: rgba(0,124,255,0.20);
