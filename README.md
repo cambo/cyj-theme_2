@@ -1,7 +1,5 @@
-(**THIS IS A TEMPLATE**)
-
-# Theme name - ARK Desktop Wallet plugin
-Description of your theme
+# The Official Cam's Yellow Jacket Wallet Theme - ARK Desktop Wallet plugin
+CYJ Wallet Theme
 
 ## Installation
 
