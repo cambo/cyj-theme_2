@@ -1,7 +1,7 @@
 module.exports = {
   getThemes () {
     return {
-      'plugin-cyj-theme': {
+      'plugin-CYJ-Theme': {
         cssPath: 'styles/light.css',
         darkMode: false
       }
