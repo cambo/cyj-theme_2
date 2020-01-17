@@ -1,13 +1,13 @@
 {
-  "name": "@arkecosystem/desktop-wallet-theme-template",
+  "name": "@cambot1088/cyj-theme_2",
   "version": "0.0.1",
-  "description": "Desktop Wallet Theme Template",
+  "description": "The Cam's Yellow Jacket Wallet Template",
   "main": "src/index.js",
-  "author": "Author Name",
+  "author": "cam (cams_yellow_jacket)",
   "license": "MIT",
   "desktop-wallet": {
-    "title": "Theme Template",
-    "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/logo.png",
+    "title": "Cam's Yellow Jacket Theme Template",
+    "logo": "https://imgur.com/a/t4Frk1K",
     "categories": [
       "theme"
     ],
@@ -27,11 +27,11 @@
     "Author Name"
   ],
   "bugs": {
-    "url": "https://github.com/ark-ecosystem-desktop-plugins/theme-template/issues"
+    "url": "https://github.com/cambo/CYJ-Theme/blob/master/issues"
   },
-  "homepage": "https://github.com/ark-ecosystem-desktop-plugins/theme-template#readme",
+  "homepage": "https://github.com/cambo/CYJ-Theme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ark-ecosystem-desktop-plugins/theme-template.git"
+    "url": "git+https://github.com/cambo/CYJ-Theme.git"
   }
 }
