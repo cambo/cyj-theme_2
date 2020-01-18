@@ -1,6 +1,6 @@
 {
   "name": "@cambot1088/cyj-theme_2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The Cam's Yellow Jacket Wallet Template",
   "main": "src/index.js",
   "author": "cam (cams_yellow_jacket)",
