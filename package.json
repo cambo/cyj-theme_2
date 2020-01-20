@@ -1,13 +1,13 @@
 {
   "name": "@cambot1088/cyj-theme_2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The Cam's Yellow Jacket Wallet Template",
   "main": "src/index.js",
   "author": "cam (cams_yellow_jacket)",
   "license": "MIT",
   "desktop-wallet": {
     "title": "Cam's Yellow Jacket Theme Template",
-    "logo": "https://imgur.com/a/t4Frk1K",
+    "logo": "https://raw.githubusercontent.com/cambo/cyj-theme_2/master/mini-cyj-logo.png",
     "categories": [
       "theme"
     ],
